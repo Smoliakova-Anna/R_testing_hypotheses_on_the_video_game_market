@@ -70,18 +70,6 @@
 * Язык: R
 * Библиотеки: `ggplot2`, `nortest`, `dplyr`, `dunn.test` и другие
 
----
-
-## Структура проекта
-
-```
-videogame-sales-analysis/
-├── data/           # Данные
-├── visuals/        # Визуализации
-├── report/         # Итоговый отчет
-├── scripts/        # R-скрипты
-└── README.md       # Описание проекта
-```
 
 
 
